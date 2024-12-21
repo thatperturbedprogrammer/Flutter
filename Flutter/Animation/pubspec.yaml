@@ -1,0 +1,15 @@
+dependencies:
+  flutter:
+    sdk: flutter
+
+  lottie: ^1.2.1
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+# To add assets to your application
+assets:
+    - assets/images/lottie_logo.json
